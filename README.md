@@ -1,1 +1,2 @@
 # Tutorial 8
+Outside of following the tutorial, I changed the spawnrate of the spawners into every 1.3 seconds to make it easier, but have it still require decent timing. As for the GPUParticle2D, I made the extent range of the box (the X and Y) larger so that the rain will always be visible.
