@@ -10,7 +10,6 @@ const UP = Vector2(0,-1)
 @onready var sprite = self.get_node("Sprite2D")
 @onready var particle = $GPUParticles2D
 
-
 func get_input():
 	velocity.x = 0
 	if is_on_floor() and Input.is_action_just_pressed('jump'):
